@@ -1,5 +1,5 @@
 # Genetic-Algorithms
-Solved classic N-Queen problem, travelling salesman problem, 0-1 Knapsack problem and Graph-colouring problem using Genetic Algorithms in Python.
+Solved NP-Hard problems namely N-Queen problem, travelling salesman problem, 0-1 Knapsack problem and Graph-colouring problem using Genetic Algorithms in Python.
 
 ## Language used
 - [Python 3](https://www.python.org/download/releases/3.0/)
