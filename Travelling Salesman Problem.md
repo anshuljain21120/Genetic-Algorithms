@@ -255,15 +255,3 @@ Plot of the best fitness in a generation versus generation number.
 import matplotlib.pyplot as plt
 plt.plot(range(generationInfo.shape[0]), list(generationInfo['Fitness']))
 ```
-
-
-
-
-
-
-
-
-
-```python
-
-```
