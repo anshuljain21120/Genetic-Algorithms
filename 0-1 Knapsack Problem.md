@@ -292,5 +292,3 @@ f.close()
 
 
 
-![png](output_46_1.png)
-
