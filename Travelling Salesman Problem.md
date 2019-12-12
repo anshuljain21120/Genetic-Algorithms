@@ -259,8 +259,6 @@ plt.plot(range(generationInfo.shape[0]), list(generationInfo['Fitness']))
 
 
 
-    [<matplotlib.lines.Line2D at 0x7f64ac769310>]
-
 
 
 
