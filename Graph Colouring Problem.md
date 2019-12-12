@@ -232,5 +232,3 @@ plt.show()
 ```
 
 
-![png](output_35_0.png)
-
