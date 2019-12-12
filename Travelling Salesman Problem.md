@@ -264,8 +264,6 @@ plt.plot(range(generationInfo.shape[0]), list(generationInfo['Fitness']))
 
 
 
-![png](output_30_1.png)
-
 
 
 ```python
